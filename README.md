@@ -63,13 +63,6 @@ The following steps were performed using Microsoft SQL Server:
 ## Project Overview
 This project analyzes Cyclistic bike-share usage data to understand behavioral differences between casual riders and annual members. The goal is to identify insights that can help the company convert casual riders into annual members.
 
-This case study follows the Google Data Analytics Capstone framework: Ask, Prepare, Process, Analyze, Share, and Act.
-
-Tools used:
-- Microsoft SQL Server (data cleaning and transformation)
-- Tableau (data visualization)
-- GitHub (project documentation)
-
 ---
 
 # Business Problem
@@ -111,6 +104,28 @@ The dataset includes:
 The dataset contains **201,450 rides** after cleaning.
 
 ---
+
+## Methodology
+
+The analysis follows the Google Data Analytics framework:
+
+Ask  
+Define the business problem and objectives.
+
+Prepare  
+Collect and understand the Cyclistic trip dataset.
+
+Process  
+Clean and transform the data using SQL Server.
+
+Analyze  
+Identify patterns in rider behavior through SQL queries.
+
+Share  
+Build visual dashboards in Tableau.
+
+Act  
+Provide data-driven recommendations for converting casual riders into annual members.
 
 ## Data Cleaning Process
 
