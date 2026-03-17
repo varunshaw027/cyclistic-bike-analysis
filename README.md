@@ -174,6 +174,9 @@ Based on the analysis, Cyclistic should consider the following strategies:
 
 <img width="976" height="731" alt="image" src="https://github.com/user-attachments/assets/3396ab8f-c134-463b-a730-7f119f010394" />
 
+## Tableau Dashboard
+
+![Cyclistic Dashboard](tableau_dashboard.png)
 
 ---
 
