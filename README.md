@@ -1,4 +1,5 @@
-# Cyclistic Bike Share Analysis
+# Cyclistic Bike Share Case Study
+Casual vs Member Rider Behavior Analysis 
 
 ## Project Overview
 This project analyzes Cyclistic bike-share usage data to understand behavioral differences between casual riders and annual members. The goal is to identify insights that can help the company convert casual riders into annual members.
@@ -111,13 +112,17 @@ The dataset contains **201,450 rides** after cleaning.
 
 ---
 
-# Data Cleaning Process (SQL)
+## Data Cleaning Process
 
-The following steps were performed using Microsoft SQL Server:
+Data was cleaned and transformed using Microsoft SQL Server.
 
-### 1 Create Ride Length
-### 2 Extract Day of Week
-### 3 Extract Ride Hour
+Steps performed:
+
+• Created ride_length column  
+• Extracted ride_hour  
+• Extracted day_of_week  
+
+SQL queries are included in the repository.
 
 ---
 
@@ -130,15 +135,21 @@ The following steps were performed using Microsoft SQL Server:
 
 ---
 
-# Visual Analysis
+## Visual Analysis
 
-The following dashboards were created in Tableau:
+Tableau dashboards were created to explore:
 
-1 Rides by Day of Week  
-2 Rides by Hour  
-3 Average Ride Length by Rider Type  
-4 Rideable Type Preference  
-5 Ride Length Distribution
+• Rides by Day of Week  
+• Rides by Hour  
+• Average Ride Length by Rider Type  
+• Rideable Type Preference  
+• Ride Length Distribution
+
+---
+
+## Tableau Dashboard
+
+![Cyclistic Dashboard](tableau_dashboard.png)
 
 ---
 
@@ -170,9 +181,23 @@ Based on the analysis, Cyclistic should consider the following strategies:
 
 ---
 
-## Tableau Dashboard
+## Project Structure
 
-![Cyclistic Dashboard](tableau_dashboard.png)
+cyclistic-bike-analysis
+│
+├ README.md
+├ SQL_queries.sql
+├ tableau_dashboard.png
+├ cyclistic_dashboard.twbx
+
+## Skills Demonstrated
+
+SQL  
+Data Cleaning  
+Exploratory Data Analysis  
+Data Visualization  
+Tableau Dashboard Development  
+Business Insight Generation
 
 ---
 
