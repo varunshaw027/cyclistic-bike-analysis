@@ -184,11 +184,11 @@ Based on the analysis, Cyclistic should consider the following strategies:
 ## Project Structure
 
 cyclistic-bike-analysis
-│
-├ README.md
-├ SQL_queries.sql
-├ tableau_dashboard.png
-├ cyclistic_dashboard.twbx
+
+README.md
+SQL_queries.sql
+Tableau_dashboard.png
+Cyclistic_dashboard.twbx
 
 ## Skills Demonstrated
 
